@@ -1,0 +1,4 @@
+carpeta\calcularimc\resources\JakartaEE11Resource.class
+servlets\SvCalcular.class
+servlets\ResultadoServlet.class
+carpeta\calcularimc\JakartaRestConfiguration.class
